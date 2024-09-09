@@ -5,7 +5,8 @@
     "genre": "Strategy, Economic, Resource Management",
     "players": "3-4 (with expansions, up to 6)",
     "playtime": "60-120 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/catan.jpg"
   },
   {
     "name": "Ticket to Ride",
@@ -13,7 +14,8 @@
     "genre": "Family, Route Building, Set Collection",
     "players": "2-5",
     "playtime": "30-60 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/ticket_to_ride.jpg"
   },
   {
     "name": "Pandemic",
@@ -21,7 +23,8 @@
     "genre": "Cooperative, Strategy, Survival",
     "players": "2-4 (with expansions, up to 5)",
     "playtime": "45-60 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/pandemic.jpg"
   },
   {
     "name": "Carcassonne",
@@ -29,7 +32,8 @@
     "genre": "Tile Placement, Territory Building",
     "players": "2-5 (with expansions, up to 6)",
     "playtime": "30-45 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/carcassonne.jpg"
   },
   {
     "name": "7 Wonders",
@@ -37,7 +41,8 @@
     "genre": "Civilization Building, Card Drafting",
     "players": "3-7 (with expansions, 2 players)",
     "playtime": "30-45 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/7_wonders.jpg"
   },
   {
     "name": "Codenames",
@@ -45,7 +50,8 @@
     "genre": "Party, Word, Deduction",
     "players": "2-8 (ideal with 4-8)",
     "playtime": "15-30 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/codenames.jpg"
   },
   {
     "name": "Gloomhaven",
@@ -53,7 +59,8 @@
     "genre": "Cooperative, Dungeon Crawler, Legacy",
     "players": "1-4",
     "playtime": "90-150 minutes per session",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/gloomhaven.jpg"
   },
   {
     "name": "Dixit",
@@ -61,7 +68,8 @@
     "genre": "Party, Storytelling, Creative",
     "players": "3-6 (with expansions, up to 12)",
     "playtime": "30-45 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/dixit.jpg"
   },
   {
     "name": "Azul",
@@ -69,7 +77,8 @@
     "genre": "Abstract, Tile Drafting, Pattern Building",
     "players": "2-4",
     "playtime": "30-45 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/azul.jpg"
   },
   {
     "name": "Wingspan",
@@ -77,6 +86,7 @@
     "genre": "Engine Building, Strategy",
     "players": "1-5",
     "playtime": "40-70 minutes",
-    "location": "A1"
+    "location": "A1",
+    "image": "https://example.com/wingspan.jpg"
   }
 ]
