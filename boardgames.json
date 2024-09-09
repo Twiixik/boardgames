@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Catan",
+    "short_description": "A strategy game where players collect and trade resources to build settlements, roads, and cities to reach 10 victory points.",
+    "genre": "Strategy, Economic, Resource Management",
+    "players": "3-4 (with expansions, up to 6)",
+    "playtime": "60-120 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Ticket to Ride",
+    "short_description": "A family-friendly game where players collect train cards to claim railway routes and connect cities across a map.",
+    "genre": "Family, Route Building, Set Collection",
+    "players": "2-5",
+    "playtime": "30-60 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Pandemic",
+    "short_description": "A cooperative game where players work together to stop the spread of diseases and find cures before time runs out.",
+    "genre": "Cooperative, Strategy, Survival",
+    "players": "2-4 (with expansions, up to 5)",
+    "playtime": "45-60 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Carcassonne",
+    "short_description": "A tile-placement game where players create a medieval landscape and score points by completing cities, roads, and fields.",
+    "genre": "Tile Placement, Territory Building",
+    "players": "2-5 (with expansions, up to 6)",
+    "playtime": "30-45 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "7 Wonders",
+    "short_description": "A civilization-building game where players draft cards to develop their cities and build wonders over three ages.",
+    "genre": "Civilization Building, Card Drafting",
+    "players": "3-7 (with expansions, 2 players)",
+    "playtime": "30-45 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Codenames",
+    "short_description": "A word-based party game where two teams compete to find their hidden agents using one-word clues.",
+    "genre": "Party, Word, Deduction",
+    "players": "2-8 (ideal with 4-8)",
+    "playtime": "15-30 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Gloomhaven",
+    "short_description": "A cooperative dungeon-crawling game where players explore dungeons and complete quests in a fantasy world.",
+    "genre": "Cooperative, Dungeon Crawler, Legacy",
+    "players": "1-4",
+    "playtime": "90-150 minutes per session",
+    "location": "A1"
+  },
+  {
+    "name": "Dixit",
+    "short_description": "A storytelling game where players use abstract cards to give clues and guess which card matches the storyteller's clue.",
+    "genre": "Party, Storytelling, Creative",
+    "players": "3-6 (with expansions, up to 12)",
+    "playtime": "30-45 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Azul",
+    "short_description": "A tile-drafting game where players select colorful tiles to create beautiful patterns and score points.",
+    "genre": "Abstract, Tile Drafting, Pattern Building",
+    "players": "2-4",
+    "playtime": "30-45 minutes",
+    "location": "A1"
+  },
+  {
+    "name": "Wingspan",
+    "short_description": "An engine-building game where players attract birds to their wildlife reserves and score points through food, eggs, and bird powers.",
+    "genre": "Engine Building, Strategy",
+    "players": "1-5",
+    "playtime": "40-70 minutes",
+    "location": "A1"
+  }
+]
